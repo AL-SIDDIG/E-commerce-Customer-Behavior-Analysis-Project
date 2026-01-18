@@ -1,5 +1,4 @@
-# 🛒 Retail Sales Data Warehouse & Power BI Analytics Dashboard
-
+# 🛒E-commerce Customer Behavior Analysis Project
 An end-to-end data analytics project that transforms raw retail transaction data into a clean data warehouse and an interactive Power BI dashboard for business insights.
 
 ---
